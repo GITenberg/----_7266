@@ -1,0 +1,34 @@
+_repo: '----_7266'
+_version: 0.0.1
+alternative_title:
+- Sou shen hou ji
+- 搜神后记
+creator:
+  author:
+    agent_name: Tao, Qian
+    aliases:
+    - Tao, Yuanming
+    - 陶潛
+    - 陶潜
+    birthdate: 365
+    deathdate: 427
+    gutenberg_agent_id: '2479'
+    url: http://www.gutenberg.org/2009/agents/2479
+    wikipedia:
+    - http://zh.wikipedia.org/wiki/%E9%99%B6%E6%B7%B5%E6%98%8E
+    - http://en.wikipedia.org/wiki/Tao_Qian
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7266'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Ghost stories, Chinese'
+- GITenberg
+title: 搜神後記
+url: http://www.gutenberg.org/ebooks/7266
